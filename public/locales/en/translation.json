@@ -1,0 +1,17 @@
+{
+  "register": "Register",
+  "language": "Language",
+  "login": "Login",
+  "loginButton": "Login",
+  "logout": "Logout",
+  "password": "Password",
+  "signIn": "Sign in",
+  "signUp": "Sign up",
+  "create": "Create",
+  "update": "Update",
+  "delete": "Delete",
+  "title": "Title",
+  "category": "Category",
+  "manufacturer": "Manufacturer",
+  "back": "Back"
+}

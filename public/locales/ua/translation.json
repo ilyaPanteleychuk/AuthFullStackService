@@ -1,0 +1,17 @@
+{
+  "register": "Зареєструватись",
+  "language": "Мова",
+  "login": "Логін",
+  "loginButton": "Увійти",
+  "logout": "Вийти",
+  "password": "Пароль",
+  "signIn": "Вхід",
+  "signUp": "Вихiд",
+  "create": "Додати",
+  "update": "Оновити",
+  "delete": "Видалити",
+  "title": "Назва",
+  "category": "Категорія",
+  "manufacturer": "Виробник",
+  "back": "Назад"
+}

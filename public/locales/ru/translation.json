@@ -1,0 +1,17 @@
+{
+  "register": "Зарегистрироваться",
+  "language": "Язык",
+  "login": "Логин",
+  "loginButton": "Войти",
+  "logout": "Выйти",
+  "password": "Пароль",
+  "signIn": "Вход",
+  "signUp": "Регистрация",
+  "create": "Добавить",
+  "update": "Обновить",
+  "delete": "Удалить",
+  "title": "Название",
+  "category": "Категория",
+  "manufacturer": "Производитель",
+  "back": "Назад"
+}
